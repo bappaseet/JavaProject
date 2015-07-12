@@ -16,7 +16,7 @@ assertEquals(String message, Object expected, Object actual): Asserts that two o
 are equal. If they are not, an AssertionError is thrown with the given message. 
 If expected and actual are null, they are considered equal.
 
-- See more at: http://www.java2novice.com/junit-examples/test-annotation/#sthash.R5NqFlGR.dpuf
+
  */
 package com.example.Junit;
  
