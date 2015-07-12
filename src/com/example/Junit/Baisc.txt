@@ -1,0 +1,8 @@
+JUnit Examples
+JUnit is a unit testing framework for the Java programming language.
+JUnit has been important in the development of test-driven development, 
+and is one of a family of unit testing frameworks which is collectively
+known as xUnit. JUnit is suitable for only unit testing, not for integration
+test. Unit testing is testing small units of codes like methods, or a class,
+whereas integration testing invloves complete component or integration between
+multiple components.
